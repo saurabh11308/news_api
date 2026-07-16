@@ -1,5 +1,3 @@
-from pydoc_data.topics import topics
-
 import requests
 from send_email import send_email
 
